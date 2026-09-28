@@ -3,4 +3,5 @@ Curso de Introdução à Análise de Dados com Microsoft Power BI, com foco nos 
 
 ### 📜 Certificado
 
-[**🔗 Clique aqui para visualizar o certificado**](./certificado-dbskill.pdf)
+[**🔗 Clique aqui para visualizar o certificado**](./Certificado de Conclusão_INTRODUÇÃO_ANÁLISE_DE_DADOS.pdf)
+
